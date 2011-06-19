@@ -11,11 +11,8 @@ With the above definition, you can input <Esc> in Insert mode by pressing "j"
 and "k" simultaneously, while you can move the cursor by pressing "j" or "k"
 solely.
 
-The concept of this plugin is derived from Emacs' [key-chord.el][1], but there are the following differences:
+The concept of this plugin is derived from Emacs' [key-chord.el](http://www.emacswiki.org/emacs/key-chord.el), but there are the following differences:
 
 - Number of keys to be simultaneously pressed is unlimited.
 - Custom delay for each key is supported.
-  This is a generalization of [space-chord.el][2].
-
-[1] : http://www.emacswiki.org/emacs/key-chord.el
-[2] : http://www.emacswiki.org/emacs/space-chord.el
+  This is a generalization of [space-chord.el](http://www.emacswiki.org/emacs/space-chord.el).
